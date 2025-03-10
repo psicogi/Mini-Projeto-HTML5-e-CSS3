@@ -5,7 +5,7 @@
 
 Projeto feito para a conclusão do módulo 02 do curso de HTML5 e CSS3!
 
+https://mini-projeto-html-5-e-css-3.vercel.app/android.html
+
 Site mostra uma matéria sobre o Android, suas variantes e seus criadores. Através do site eu trabalho na responsavidade das imagens e do vídeo,
 também trabalho na animação dos links e menu através do "hover", e também trabalho na importação de fonte e degradê de cores.
-
-https://mini-projeto-html-5-e-css-3.vercel.app/android.html
